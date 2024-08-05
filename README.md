@@ -6,6 +6,10 @@
 
 Esta herramienta monitorea los inicios de sesión de los usuarios en tiempo real y detecta anomalías basadas en múltiples inicios de sesión en un corto período de tiempo.
 
+## Imagen de la Herramienta
+
+![User Behavior Monitor](https://github.com/ccyl13/user_behavior_monitor/raw/main/images/2.png)
+
 ## Instalación
 
 1. **Clona el repositorio:**
@@ -15,5 +19,3 @@ Esta herramienta monitorea los inicios de sesión de los usuarios en tiempo real
    cd user_behavior_monitor
    chmod +x user_behavior_monitor.py
    python user_behavior_monitor.py
-
-   
