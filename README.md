@@ -8,7 +8,7 @@ Esta herramienta monitorea los inicios de sesión de los usuarios en tiempo real
 
 ## Imagen de la Herramienta
 
-![User Behavior Monitor](https://github.com/ccyl13/user_behavior_monitor/raw/main/images/2.png)
+![User Behavior Monitor](https://github.com/ccyl13/user_behavior_monitor/raw/main/2.png)
 
 ## Instalación
 
