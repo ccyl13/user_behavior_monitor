@@ -19,4 +19,5 @@ Esta herramienta monitorea los inicios de sesión de los usuarios en tiempo real
    cd user_behavior_monitor
    chmod +x user_behavior_monitor.py
    pip install psutil colorama
+   pip install watchdog
    python user_behavior_monitor.py
