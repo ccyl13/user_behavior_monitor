@@ -13,4 +13,7 @@ Esta herramienta monitorea los inicios de sesión de los usuarios en tiempo real
    ```bash
    git clone https://github.com/ccyl13/user_behavior_monitor.git
    cd user_behavior_monitor
+   chmod +x user_behavior_monitor.py
+   python user_behavior_monitor.py
+
    
